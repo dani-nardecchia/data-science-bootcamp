@@ -1,0 +1,4 @@
+Ejercicios para practicar programacion orientada a objetos 
+- Creacion de una clase esfera que acepte un radio en la instanciacion,  con metodos de volumen y area de superficie 
+- Creacion de una clase GuessingGame con un metodo llamado guess, con un metodo que genere un numero aleatorio entre 0 - 10. Crear un metodo guess que permita al usuario ingresar un numero, e imprima si el usario adivino el numero generado anteriormente, ademas de una pista de si su numero esta por arriba o debajo del numero a adivinar. 
+- Crear una jerarquia de clases para modelar un zoologico, teniendo una clase Animal con atributos comunes a todos los animales y luego diferentes clases para distintos tipos de animales y clases para animales especificos que heredan atributos de sus respectivas clases de tipos de animales. 
