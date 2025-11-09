@@ -3,7 +3,7 @@ Evaluacion final del módulo 3, usando librerias NumPy y Pandas, aplicando tecni
 Se requeria: 
 - cargar dataset en un DataFrame de Pandas 
 - identificar y tratar valores perdidos 
-- detectar y filtrat outliers con el metodo IQR 
+- detectar y filtrar outliers con el metodo IQR 
 - reemplazar valores de columnas Razon_Migracion usando mapeo de valores 
 - hacer un analisis exploratorio de datos mostrando informacion general del dataset, calcular estadisticas claves (media y media, PIB promedio de paises)
 - agrupar datos por razon de migracion y calcular migrantes por categoria 
